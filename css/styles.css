@@ -208,7 +208,7 @@ img.logo{ height:70px; padding-left:10%; }
 
 
 @media only screen and (max-width: 680px) {
-  #myNav {visibility: !important hidden; display: none;}
+  #myNav ul {visibility: !important hidden; display: none;}
 }
 
 .rating {
